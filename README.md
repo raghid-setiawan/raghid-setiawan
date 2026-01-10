@@ -81,5 +81,10 @@ I often think too much, learn from mistakes, and try to reflect before moving fo
 
 ## 🧠 Mindset
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- Keep things simple  
+- Learn by doing  
+- Practice digital hygiene and privacy awareness  
+- Minimize unnecessary data usage  
+- Reflect before moving forward  
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
