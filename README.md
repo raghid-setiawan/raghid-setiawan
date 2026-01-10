@@ -71,13 +71,6 @@ I often think too much, learn from mistakes, and try to reflect before moving fo
 - Environment variables configuration (`.env`)  
 - Learning-by-doing approach
 
-
-**Notes:**
-- Basic backend & frontend setup  
-- Simple VPS deployment  
-- Environment variables configuration (`.env`)  
-- Learning-by-doing approach
-
 ---
 
 ## 🌐 Socials
