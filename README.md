@@ -62,8 +62,15 @@ I often think too much, learn from mistakes, and try to reflect before moving fo
 ## 💻 Tech Stack
 
 <div align="center" style="background-color: transparent;">
-  <img src="https://skillicons.dev/icons?i=cpp,go,html,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,html,mysql,bash" />
 </div>
+
+**Notes:**
+- Basic backend & frontend setup  
+- Simple VPS deployment  
+- Environment variables configuration (`.env`)  
+- Learning-by-doing approach
+
 
 **Notes:**
 - Basic backend & frontend setup  
