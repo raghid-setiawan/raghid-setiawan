@@ -66,10 +66,11 @@ I often think too much, learn from mistakes, and try to reflect before moving fo
 </div>
 
 **Notes:**
-- Basic backend & frontend setup  
-- Simple VPS deployment  
-- Environment variables configuration (`.env`)  
-- Learning-by-doing approach
+- Experience in configuring and deploying complex applications from scratch  
+- Backend and frontend integration on self-managed VPS environments  
+- Application configuration using environment-based settings  
+- Familiar with security-oriented development, analysis, and controlled testing in ethical contexts  
+- Hands-on approach through experimentation and real-world scenarios
 
 ---
 
