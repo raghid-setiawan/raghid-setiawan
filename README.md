@@ -1,16 +1,85 @@
-## Hi there 👋
+# 💫 About Me
+**Cybersecurity, Bug Hunting, Reverse Engineering, AI & Business**  
+From 🇮🇩 Indonesia
 
-<!--
-**raghid-setiawan/raghid-setiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am slowly building my personal presence through GitHub and Instagram by sharing what I learn and contributing when possible.  
+Most of my daily work involves experimenting, configuring, and running simple systems while learning along the way.
 
-Here are some ideas to get you started:
+I focus on gaining experience through Vulnerability Disclosure Programs (VDP), reconnaissance, and OSINT.  
+My approach is simple: gain experience first, learn from mistakes, and grow step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔭 **Currently Breaching (legally)**  
+Building personal branding by contributing to public projects and participating in VDP programs.  
+Currently focusing on reconnaissance, OSINT, and learning how tools work through their parameters and configurations.
+
+---
+
+👯 **Looking to Collaborate On**  
+I am open to suggestions and simple collaborations.  
+If you want to work together or discuss ideas, feel free to reach out.
+
+I am also exploring a small trading-related project, including an early concept of an AI-based auto trading bot integrated with MetaTrader 5.
+
+---
+
+🤝 **Need Help With**  
+- Structuring work and avoiding mental fatigue  
+- Learning consistently without rushing  
+- Finding collaborative environments to build useful and practical technology together
+
+---
+
+🌱 **Currently Reconning**  
+- Vulnerability Disclosure Programs (VDP), mainly international websites  
+- Programs that provide recognition such as certificates or swag  
+- Reconnaissance and OSINT basics
+
+---
+
+💬 **Ask Me About**  
+- Basic tool usage and parameter configuration  
+- Simple OSINT techniques  
+- Basic reverse engineering analysis  
+- Cybersecurity, AI, crypto, and general tech discussions
+
+---
+
+⚡ **Fun Fact**  
+I often think too much, learn from mistakes, and try to reflect before moving forward.
+
+---
+
+## 📈 Activity & Presence
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raghid-setiawan&theme=github-compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=raghid-setiawan&color=blueviolet&style=flat)
+
+---
+
+## 💻 Tech Stack
+
+<div align="center" style="background-color: transparent;">
+  <img src="https://skillicons.dev/icons?i=cpp,go,html,mysql,bash" />
+</div>
+
+**Notes:**
+- Basic backend & frontend setup  
+- Simple VPS deployment  
+- Environment variables configuration (`.env`)  
+- Learning-by-doing approach
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raghid.setiawan)
+
+---
+
+## 🧠 Mindset
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
