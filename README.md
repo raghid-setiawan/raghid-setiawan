@@ -76,7 +76,6 @@ I often think too much, learn from mistakes, and try to reflect before moving fo
 
 ### 🌐 Social Media
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1292112191335698463)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/raghid.setiawan)
 
 ---
